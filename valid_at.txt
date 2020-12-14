@@ -1,0 +1,17 @@
+/home/jeff/work/med_ai/NIH/data/yolo_at/00016987_022.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00021024_022.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00012123_001.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00029631_006.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00000744_006.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00019373_036.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00027697_001.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/classes.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00025368_014.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00026136_002.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00028452_001.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00025270_000.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00010478_012.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00014795_002.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00017151_003.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00023116_005.png
+/home/jeff/work/med_ai/NIH/data/yolo_at/00000181_061.png
